@@ -1,0 +1,50 @@
+
+.headings {
+    padding-bottom: 20px !important;
+}
+
+.container-fluid {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 75px;
+    padding-right: 75px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 20px;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.SuccessButton {
+    margin-top: 20px;
+}
+
+.nav-link {
+    color: #000000;
+}
+.nav-link:hover {
+    color: #CF0A0A !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #000000;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #fff;
+}
